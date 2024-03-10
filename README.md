@@ -319,8 +319,6 @@ The front page serves as the gateway to the car price prediction experience. It 
 •	The visualization offers a clear and intuitive means for users to visually assess the model's predictions in relation to the true values, aiding in the evaluation of the model's effectiveness in predicting car resale prices.
 
 # 5.  Codes
-Link of the complete front end (Flutter) and backend (Python) code is:
-https://github.com/Programming-Phantoms/Car_Prediction_System.git
 
 ### The provided backend Python code is a Flask application that serves as a backend for a linear regression model for predicting car prices. Here's a brief description of the code:
 ### 1)	Imports:
